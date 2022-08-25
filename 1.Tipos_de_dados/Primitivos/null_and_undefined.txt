@@ -1,0 +1,4 @@
+/*
+Undefined = Valor existe mas está vazio;
+Null = Valor inexistente;
+*/

@@ -1,0 +1,6 @@
+/* Bigint = Exclusivamente números inteiros 
+basta colocar o "n" após o final do número
+
+Number = Tanto números inteiros como números flutuantes
+"82.5"
+*/

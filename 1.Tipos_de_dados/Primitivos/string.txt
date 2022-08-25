@@ -1,0 +1,10 @@
+/* 
+String = textos/números que virão através de aspas simples ou duplas
+
+Podem ser acessadas como uma lista de caractéres:
+"Gustavo"[1] = "u"
+
+Comandos:
+    .lenght = tamanho
+    "gustavo".lenght = 7
+*/

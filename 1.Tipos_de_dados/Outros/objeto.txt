@@ -1,0 +1,3 @@
+/*
+Objeto = Conjunto de várias informações que permite armazenagem de valores
+*/

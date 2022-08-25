@@ -1,0 +1,7 @@
++ = Adição;
+- = Subtração;
+* = Multiplicação;
+/ = Divisão;
+% = Resto da divisão inteira;
+
+função 'parseFloat' transforma uma string em um número;

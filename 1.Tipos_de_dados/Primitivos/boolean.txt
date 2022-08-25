@@ -1,0 +1,4 @@
+/* Valores Verdadeiros ou Falsos
+True = Verdadeiros;
+False = Falso;
+*/
